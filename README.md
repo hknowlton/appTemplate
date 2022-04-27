@@ -1,0 +1,2 @@
+# appTemplate
+testing Shopify CLI
